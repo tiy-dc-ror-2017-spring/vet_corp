@@ -1,5 +1,7 @@
 {
   "name": "vet_corp",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
 }
